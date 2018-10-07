@@ -1,6 +1,6 @@
 # text-classification-without-word-embeddings
 In this exercise, I have tried to test different algorithms to do supervsed text classifications. The data source used in this case is a 
-public data set which has different research papers that featured in different conferences ("https://raw.githubusercontent.com/susanli2016/Machine-Learning-with-Python/master/research_paper.csv"). The aim of this task is to create a classification
+public data set which has different research papers that featured in different conferences (https://raw.githubusercontent.com/susanli2016/Machine-Learning-with-Python/master/research_paper.csv). The aim of this task is to create a classification
 model that can predict which conference the research paper is from.
 
 I have started with a very simple naive bayes model and then after that tried the same bag of word representation on a SVM model (both linear and
